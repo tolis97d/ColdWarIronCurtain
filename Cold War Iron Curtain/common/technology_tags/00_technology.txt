@@ -374,6 +374,7 @@ technology_folders = {
 	helicopter_folder
 	space_folder
 	rocket_folder
+	space_propulsion_folder
 	#apotheosis_folder
 }
 
